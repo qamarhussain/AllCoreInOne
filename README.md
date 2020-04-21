@@ -28,9 +28,7 @@ AutoMapper
 
 Getting Started
 ===================================================================================================
-
-
-Locate your appsettings.Development.json and apply your ConnectionString to get started.
+Change ConnectionString in appsettings.json.
 
 Firstly add the Identity tables to your database
 
