@@ -1,0 +1,357 @@
+C:\Users\Qamar Hussain\source\repos\ANewOne\ANewOne\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Qamar Hussain\source\repos\ANewOne\ANewOne\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Qamar Hussain\source\repos\ANewOne\ANewOne\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\Qamar Hussain\source\repos\ANewOne\ANewOne\bin\Debug\netcoreapp3.1\AllCoreInOne.StaticWebAssets.xml
+C:\Users\Qamar Hussain\source\repos\ANewOne\ANewOne\bin\Debug\netcoreapp3.1\AllCoreInOne.exe
+C:\Users\Qamar Hussain\source\repos\ANewOne\ANewOne\bin\Debug\netcoreapp3.1\AllCoreInOne.deps.json
+C:\Users\Qamar Hussain\source\repos\ANewOne\ANewOne\bin\Debug\netcoreapp3.1\AllCoreInOne.runtimeconfig.json
+C:\Users\Qamar Hussain\source\repos\ANewOne\ANewOne\bin\Debug\netcoreapp3.1\AllCoreInOne.runtimeconfig.dev.json
+C:\Users\Qamar Hussain\source\repos\ANewOne\ANewOne\bin\Debug\netcoreapp3.1\AllCoreInOne.dll
+C:\Users\Qamar Hussain\source\repos\ANewOne\ANewOne\bin\Debug\netcoreapp3.1\AllCoreInOne.pdb
+C:\Users\Qamar Hussain\source\repos\ANewOne\ANewOne\bin\Debug\netcoreapp3.1\AllCoreInOne.Views.dll
+C:\Users\Qamar Hussain\source\repos\ANewOne\ANewOne\bin\Debug\netcoreapp3.1\AllCoreInOne.Views.pdb
+C:\Users\Qamar Hussain\source\repos\ANewOne\ANewOne\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\Qamar Hussain\source\repos\ANewOne\ANewOne\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\Qamar Hussain\source\repos\ANewOne\ANewOne\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+C:\Users\Qamar Hussain\source\repos\ANewOne\ANewOne\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\Qamar Hussain\source\repos\ANewOne\ANewOne\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V3.dll
+C:\Users\Qamar Hussain\source\repos\ANewOne\ANewOne\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+C:\Users\Qamar Hussain\source\repos\ANewOne\ANewOne\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.dll
+C:\Users\Qamar Hussain\source\repos\ANewOne\ANewOne\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Qamar Hussain\source\repos\ANewOne\ANewOne\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Qamar Hussain\source\repos\ANewOne\ANewOne\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\Qamar Hussain\source\repos\ANewOne\ANewOne\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\Qamar Hussain\source\repos\ANewOne\ANewOne\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Qamar Hussain\source\repos\ANewOne\ANewOne\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Qamar Hussain\source\repos\ANewOne\ANewOne\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Qamar Hussain\source\repos\ANewOne\ANewOne\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Qamar Hussain\source\repos\ANewOne\ANewOne\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Qamar Hussain\source\repos\ANewOne\ANewOne\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Qamar Hussain\source\repos\ANewOne\ANewOne\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Qamar Hussain\source\repos\ANewOne\ANewOne\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Qamar Hussain\source\repos\ANewOne\ANewOne\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Qamar Hussain\source\repos\ANewOne\ANewOne\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Qamar Hussain\source\repos\ANewOne\ANewOne\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Qamar Hussain\source\repos\ANewOne\ANewOne\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Qamar Hussain\source\repos\ANewOne\ANewOne\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\Qamar Hussain\source\repos\ANewOne\ANewOne\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Qamar Hussain\source\repos\ANewOne\ANewOne\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Qamar Hussain\source\repos\ANewOne\ANewOne\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Qamar Hussain\source\repos\ANewOne\ANewOne\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Qamar Hussain\source\repos\ANewOne\ANewOne\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\Qamar Hussain\source\repos\ANewOne\ANewOne\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Users\Qamar Hussain\source\repos\ANewOne\ANewOne\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+C:\Users\Qamar Hussain\source\repos\ANewOne\ANewOne\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\Qamar Hussain\source\repos\ANewOne\ANewOne\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Qamar Hussain\source\repos\ANewOne\ANewOne\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Qamar Hussain\source\repos\ANewOne\ANewOne\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Qamar Hussain\source\repos\ANewOne\ANewOne\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Qamar Hussain\source\repos\ANewOne\ANewOne\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\Qamar Hussain\source\repos\ANewOne\ANewOne\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\Qamar Hussain\source\repos\ANewOne\ANewOne\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\Qamar Hussain\source\repos\ANewOne\ANewOne\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\Qamar Hussain\source\repos\ANewOne\ANewOne\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\Qamar Hussain\source\repos\ANewOne\ANewOne\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\Qamar Hussain\source\repos\ANewOne\ANewOne\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\Qamar Hussain\source\repos\ANewOne\ANewOne\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\Qamar Hussain\source\repos\ANewOne\ANewOne\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\Qamar Hussain\source\repos\ANewOne\ANewOne\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Qamar Hussain\source\repos\ANewOne\ANewOne\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\Qamar Hussain\source\repos\ANewOne\ANewOne\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\Qamar Hussain\source\repos\ANewOne\ANewOne\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\Qamar Hussain\source\repos\ANewOne\ANewOne\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\Qamar Hussain\source\repos\ANewOne\ANewOne\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\Qamar Hussain\source\repos\ANewOne\ANewOne\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\Qamar Hussain\source\repos\ANewOne\ANewOne\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Qamar Hussain\source\repos\ANewOne\ANewOne\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\Qamar Hussain\source\repos\ANewOne\ANewOne\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Qamar Hussain\source\repos\ANewOne\ANewOne\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Qamar Hussain\source\repos\ANewOne\ANewOne\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Qamar Hussain\source\repos\ANewOne\ANewOne\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Qamar Hussain\source\repos\ANewOne\ANewOne\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Qamar Hussain\source\repos\ANewOne\ANewOne\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Qamar Hussain\source\repos\ANewOne\ANewOne\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Qamar Hussain\source\repos\ANewOne\ANewOne\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Qamar Hussain\source\repos\ANewOne\ANewOne\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Qamar Hussain\source\repos\ANewOne\ANewOne\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Qamar Hussain\source\repos\ANewOne\ANewOne\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Qamar Hussain\source\repos\ANewOne\ANewOne\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Qamar Hussain\source\repos\ANewOne\ANewOne\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Qamar Hussain\source\repos\ANewOne\ANewOne\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Qamar Hussain\source\repos\ANewOne\ANewOne\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Qamar Hussain\source\repos\ANewOne\ANewOne\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Qamar Hussain\source\repos\ANewOne\ANewOne\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Qamar Hussain\source\repos\ANewOne\ANewOne\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Qamar Hussain\source\repos\ANewOne\ANewOne\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Qamar Hussain\source\repos\ANewOne\ANewOne\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Qamar Hussain\source\repos\ANewOne\ANewOne\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Qamar Hussain\source\repos\ANewOne\ANewOne\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Qamar Hussain\source\repos\ANewOne\ANewOne\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Qamar Hussain\source\repos\ANewOne\ANewOne\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Qamar Hussain\source\repos\ANewOne\ANewOne\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Qamar Hussain\source\repos\ANewOne\ANewOne\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Qamar Hussain\source\repos\ANewOne\ANewOne\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Qamar Hussain\source\repos\ANewOne\ANewOne\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Qamar Hussain\source\repos\ANewOne\ANewOne\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Qamar Hussain\source\repos\ANewOne\ANewOne\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Qamar Hussain\source\repos\ANewOne\ANewOne\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Qamar Hussain\source\repos\ANewOne\ANewOne\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Qamar Hussain\source\repos\ANewOne\ANewOne\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Qamar Hussain\source\repos\ANewOne\ANewOne\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Qamar Hussain\source\repos\ANewOne\ANewOne\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Qamar Hussain\source\repos\ANewOne\ANewOne\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Qamar Hussain\source\repos\ANewOne\ANewOne\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Qamar Hussain\source\repos\ANewOne\ANewOne\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Qamar Hussain\source\repos\ANewOne\ANewOne\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Qamar Hussain\source\repos\ANewOne\ANewOne\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Qamar Hussain\source\repos\ANewOne\ANewOne\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Qamar Hussain\source\repos\ANewOne\ANewOne\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Qamar Hussain\source\repos\ANewOne\ANewOne\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Qamar Hussain\source\repos\ANewOne\ANewOne\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Qamar Hussain\source\repos\ANewOne\ANewOne\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Qamar Hussain\source\repos\ANewOne\ANewOne\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Qamar Hussain\source\repos\ANewOne\ANewOne\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Qamar Hussain\source\repos\ANewOne\ANewOne\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Qamar Hussain\source\repos\ANewOne\ANewOne\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Qamar Hussain\source\repos\ANewOne\ANewOne\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Qamar Hussain\source\repos\ANewOne\ANewOne\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Qamar Hussain\source\repos\ANewOne\ANewOne\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Qamar Hussain\source\repos\ANewOne\ANewOne\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Qamar Hussain\source\repos\ANewOne\ANewOne\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Qamar Hussain\source\repos\ANewOne\ANewOne\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Qamar Hussain\source\repos\ANewOne\ANewOne\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\Qamar Hussain\source\repos\ANewOne\ANewOne\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\Qamar Hussain\source\repos\ANewOne\ANewOne\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\Qamar Hussain\source\repos\ANewOne\ANewOne\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Qamar Hussain\source\repos\ANewOne\ANewOne\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Qamar Hussain\source\repos\ANewOne\ANewOne\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Qamar Hussain\source\repos\ANewOne\ANewOne\obj\Debug\netcoreapp3.1\AllCoreInOne.csproj.CoreCompileInputs.cache
+C:\Users\Qamar Hussain\source\repos\ANewOne\ANewOne\obj\Debug\netcoreapp3.1\AllCoreInOne.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Qamar Hussain\source\repos\ANewOne\ANewOne\obj\Debug\netcoreapp3.1\AllCoreInOne.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Qamar Hussain\source\repos\ANewOne\ANewOne\obj\Debug\netcoreapp3.1\AllCoreInOne.RazorAssemblyInfo.cache
+C:\Users\Qamar Hussain\source\repos\ANewOne\ANewOne\obj\Debug\netcoreapp3.1\AllCoreInOne.RazorAssemblyInfo.cs
+C:\Users\Qamar Hussain\source\repos\ANewOne\ANewOne\obj\Debug\netcoreapp3.1\AllCoreInOne.AssemblyInfoInputs.cache
+C:\Users\Qamar Hussain\source\repos\ANewOne\ANewOne\obj\Debug\netcoreapp3.1\AllCoreInOne.AssemblyInfo.cs
+C:\Users\Qamar Hussain\source\repos\ANewOne\ANewOne\obj\Debug\netcoreapp3.1\AllCoreInOne.TagHelpers.input.cache
+C:\Users\Qamar Hussain\source\repos\ANewOne\ANewOne\obj\Debug\netcoreapp3.1\AllCoreInOne.TagHelpers.output.cache
+C:\Users\Qamar Hussain\source\repos\ANewOne\ANewOne\obj\Debug\netcoreapp3.1\AllCoreInOne.RazorCoreGenerate.cache
+C:\Users\Qamar Hussain\source\repos\ANewOne\ANewOne\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+C:\Users\Qamar Hussain\source\repos\ANewOne\ANewOne\obj\Debug\netcoreapp3.1\Razor\Views\Account\Login.cshtml.g.cs
+C:\Users\Qamar Hussain\source\repos\ANewOne\ANewOne\obj\Debug\netcoreapp3.1\Razor\Views\Account\Register.cshtml.g.cs
+C:\Users\Qamar Hussain\source\repos\ANewOne\ANewOne\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Qamar Hussain\source\repos\ANewOne\ANewOne\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\Qamar Hussain\source\repos\ANewOne\ANewOne\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Qamar Hussain\source\repos\ANewOne\ANewOne\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Qamar Hussain\source\repos\ANewOne\ANewOne\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+C:\Users\Qamar Hussain\source\repos\ANewOne\ANewOne\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Qamar Hussain\source\repos\ANewOne\ANewOne\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Qamar Hussain\source\repos\ANewOne\ANewOne\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Qamar Hussain\source\repos\ANewOne\ANewOne\obj\Debug\netcoreapp3.1\AllCoreInOne.RazorTargetAssemblyInfo.cache
+C:\Users\Qamar Hussain\source\repos\ANewOne\ANewOne\obj\Debug\netcoreapp3.1\AllCoreInOne.RazorTargetAssemblyInfo.cs
+C:\Users\Qamar Hussain\source\repos\ANewOne\ANewOne\obj\Debug\netcoreapp3.1\AllCoreInOne.Views.pdb
+C:\Users\Qamar Hussain\source\repos\ANewOne\ANewOne\obj\Debug\netcoreapp3.1\AllCoreInOne.csproj.CopyComplete
+C:\Users\Qamar Hussain\source\repos\ANewOne\ANewOne\obj\Debug\netcoreapp3.1\staticwebassets\AllCoreInOne.StaticWebAssets.Manifest.cache
+C:\Users\Qamar Hussain\source\repos\ANewOne\ANewOne\obj\Debug\netcoreapp3.1\staticwebassets\AllCoreInOne.StaticWebAssets.xml
+C:\Users\Qamar Hussain\source\repos\ANewOne\ANewOne\obj\Debug\netcoreapp3.1\AllCoreInOne.dll
+C:\Users\Qamar Hussain\source\repos\ANewOne\ANewOne\obj\Debug\netcoreapp3.1\AllCoreInOne.pdb
+C:\Users\Qamar Hussain\source\repos\ANewOne\ANewOne\obj\Debug\netcoreapp3.1\AllCoreInOne.genruntimeconfig.cache
+E:\AllCoreInOne\AllCoreInOne\bin\Debug\netcoreapp3.1\appsettings.Development.json
+E:\AllCoreInOne\AllCoreInOne\bin\Debug\netcoreapp3.1\appsettings.json
+E:\AllCoreInOne\AllCoreInOne\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+E:\AllCoreInOne\AllCoreInOne\bin\Debug\netcoreapp3.1\AllCoreInOne.StaticWebAssets.xml
+E:\AllCoreInOne\AllCoreInOne\bin\Debug\netcoreapp3.1\AllCoreInOne.exe
+E:\AllCoreInOne\AllCoreInOne\bin\Debug\netcoreapp3.1\AllCoreInOne.deps.json
+E:\AllCoreInOne\AllCoreInOne\bin\Debug\netcoreapp3.1\AllCoreInOne.runtimeconfig.json
+E:\AllCoreInOne\AllCoreInOne\bin\Debug\netcoreapp3.1\AllCoreInOne.runtimeconfig.dev.json
+E:\AllCoreInOne\AllCoreInOne\bin\Debug\netcoreapp3.1\AllCoreInOne.dll
+E:\AllCoreInOne\AllCoreInOne\bin\Debug\netcoreapp3.1\AllCoreInOne.pdb
+E:\AllCoreInOne\AllCoreInOne\bin\Debug\netcoreapp3.1\AllCoreInOne.Views.dll
+E:\AllCoreInOne\AllCoreInOne\bin\Debug\netcoreapp3.1\AllCoreInOne.Views.pdb
+E:\AllCoreInOne\AllCoreInOne\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+E:\AllCoreInOne\AllCoreInOne\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+E:\AllCoreInOne\AllCoreInOne\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+E:\AllCoreInOne\AllCoreInOne\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+E:\AllCoreInOne\AllCoreInOne\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V3.dll
+E:\AllCoreInOne\AllCoreInOne\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+E:\AllCoreInOne\AllCoreInOne\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.dll
+E:\AllCoreInOne\AllCoreInOne\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+E:\AllCoreInOne\AllCoreInOne\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+E:\AllCoreInOne\AllCoreInOne\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+E:\AllCoreInOne\AllCoreInOne\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+E:\AllCoreInOne\AllCoreInOne\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+E:\AllCoreInOne\AllCoreInOne\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\AllCoreInOne\AllCoreInOne\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+E:\AllCoreInOne\AllCoreInOne\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+E:\AllCoreInOne\AllCoreInOne\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\AllCoreInOne\AllCoreInOne\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+E:\AllCoreInOne\AllCoreInOne\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\AllCoreInOne\AllCoreInOne\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+E:\AllCoreInOne\AllCoreInOne\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+E:\AllCoreInOne\AllCoreInOne\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\AllCoreInOne\AllCoreInOne\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+E:\AllCoreInOne\AllCoreInOne\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+E:\AllCoreInOne\AllCoreInOne\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+E:\AllCoreInOne\AllCoreInOne\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\AllCoreInOne\AllCoreInOne\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+E:\AllCoreInOne\AllCoreInOne\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+E:\AllCoreInOne\AllCoreInOne\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\AllCoreInOne\AllCoreInOne\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+E:\AllCoreInOne\AllCoreInOne\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Embedded.dll
+E:\AllCoreInOne\AllCoreInOne\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+E:\AllCoreInOne\AllCoreInOne\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+E:\AllCoreInOne\AllCoreInOne\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+E:\AllCoreInOne\AllCoreInOne\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+E:\AllCoreInOne\AllCoreInOne\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+E:\AllCoreInOne\AllCoreInOne\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+E:\AllCoreInOne\AllCoreInOne\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+E:\AllCoreInOne\AllCoreInOne\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+E:\AllCoreInOne\AllCoreInOne\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+E:\AllCoreInOne\AllCoreInOne\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+E:\AllCoreInOne\AllCoreInOne\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+E:\AllCoreInOne\AllCoreInOne\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+E:\AllCoreInOne\AllCoreInOne\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+E:\AllCoreInOne\AllCoreInOne\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+E:\AllCoreInOne\AllCoreInOne\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+E:\AllCoreInOne\AllCoreInOne\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+E:\AllCoreInOne\AllCoreInOne\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+E:\AllCoreInOne\AllCoreInOne\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+E:\AllCoreInOne\AllCoreInOne\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+E:\AllCoreInOne\AllCoreInOne\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+E:\AllCoreInOne\AllCoreInOne\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+E:\AllCoreInOne\AllCoreInOne\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+E:\AllCoreInOne\AllCoreInOne\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+E:\AllCoreInOne\AllCoreInOne\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+E:\AllCoreInOne\AllCoreInOne\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+E:\AllCoreInOne\AllCoreInOne\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+E:\AllCoreInOne\AllCoreInOne\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+E:\AllCoreInOne\AllCoreInOne\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+E:\AllCoreInOne\AllCoreInOne\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+E:\AllCoreInOne\AllCoreInOne\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+E:\AllCoreInOne\AllCoreInOne\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+E:\AllCoreInOne\AllCoreInOne\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+E:\AllCoreInOne\AllCoreInOne\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+E:\AllCoreInOne\AllCoreInOne\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\AllCoreInOne\AllCoreInOne\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+E:\AllCoreInOne\AllCoreInOne\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+E:\AllCoreInOne\AllCoreInOne\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\AllCoreInOne\AllCoreInOne\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\AllCoreInOne\AllCoreInOne\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\AllCoreInOne\AllCoreInOne\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\AllCoreInOne\AllCoreInOne\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\AllCoreInOne\AllCoreInOne\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\AllCoreInOne\AllCoreInOne\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\AllCoreInOne\AllCoreInOne\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\AllCoreInOne\AllCoreInOne\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\AllCoreInOne\AllCoreInOne\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\AllCoreInOne\AllCoreInOne\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\AllCoreInOne\AllCoreInOne\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\AllCoreInOne\AllCoreInOne\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\AllCoreInOne\AllCoreInOne\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\AllCoreInOne\AllCoreInOne\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\AllCoreInOne\AllCoreInOne\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\AllCoreInOne\AllCoreInOne\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\AllCoreInOne\AllCoreInOne\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\AllCoreInOne\AllCoreInOne\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\AllCoreInOne\AllCoreInOne\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\AllCoreInOne\AllCoreInOne\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\AllCoreInOne\AllCoreInOne\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\AllCoreInOne\AllCoreInOne\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\AllCoreInOne\AllCoreInOne\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\AllCoreInOne\AllCoreInOne\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\AllCoreInOne\AllCoreInOne\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\AllCoreInOne\AllCoreInOne\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\AllCoreInOne\AllCoreInOne\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\AllCoreInOne\AllCoreInOne\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\AllCoreInOne\AllCoreInOne\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\AllCoreInOne\AllCoreInOne\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\AllCoreInOne\AllCoreInOne\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\AllCoreInOne\AllCoreInOne\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\AllCoreInOne\AllCoreInOne\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\AllCoreInOne\AllCoreInOne\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\AllCoreInOne\AllCoreInOne\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\AllCoreInOne\AllCoreInOne\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\AllCoreInOne\AllCoreInOne\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\AllCoreInOne\AllCoreInOne\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\AllCoreInOne\AllCoreInOne\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\AllCoreInOne\AllCoreInOne\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\AllCoreInOne\AllCoreInOne\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+E:\AllCoreInOne\AllCoreInOne\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+E:\AllCoreInOne\AllCoreInOne\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+E:\AllCoreInOne\AllCoreInOne\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+E:\AllCoreInOne\AllCoreInOne\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+E:\AllCoreInOne\AllCoreInOne\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+E:\AllCoreInOne\AllCoreInOne\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+E:\AllCoreInOne\AllCoreInOne\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\AllCoreInOne\AllCoreInOne\obj\Debug\netcoreapp3.1\AllCoreInOne.RazorAssemblyInfo.cache
+E:\AllCoreInOne\AllCoreInOne\obj\Debug\netcoreapp3.1\AllCoreInOne.RazorAssemblyInfo.cs
+E:\AllCoreInOne\AllCoreInOne\obj\Debug\netcoreapp3.1\AllCoreInOne.AssemblyInfoInputs.cache
+E:\AllCoreInOne\AllCoreInOne\obj\Debug\netcoreapp3.1\AllCoreInOne.AssemblyInfo.cs
+E:\AllCoreInOne\AllCoreInOne\obj\Debug\netcoreapp3.1\AllCoreInOne.TagHelpers.input.cache
+E:\AllCoreInOne\AllCoreInOne\obj\Debug\netcoreapp3.1\AllCoreInOne.TagHelpers.output.cache
+E:\AllCoreInOne\AllCoreInOne\obj\Debug\netcoreapp3.1\AllCoreInOne.RazorCoreGenerate.cache
+E:\AllCoreInOne\AllCoreInOne\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+E:\AllCoreInOne\AllCoreInOne\obj\Debug\netcoreapp3.1\Razor\Views\Account\Login.cshtml.g.cs
+E:\AllCoreInOne\AllCoreInOne\obj\Debug\netcoreapp3.1\Razor\Views\Account\Register.cshtml.g.cs
+E:\AllCoreInOne\AllCoreInOne\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+E:\AllCoreInOne\AllCoreInOne\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+E:\AllCoreInOne\AllCoreInOne\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+E:\AllCoreInOne\AllCoreInOne\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+E:\AllCoreInOne\AllCoreInOne\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+E:\AllCoreInOne\AllCoreInOne\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+E:\AllCoreInOne\AllCoreInOne\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+E:\AllCoreInOne\AllCoreInOne\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+E:\AllCoreInOne\AllCoreInOne\obj\Debug\netcoreapp3.1\AllCoreInOne.RazorTargetAssemblyInfo.cache
+E:\AllCoreInOne\AllCoreInOne\obj\Debug\netcoreapp3.1\AllCoreInOne.RazorTargetAssemblyInfo.cs
+E:\AllCoreInOne\AllCoreInOne\obj\Debug\netcoreapp3.1\AllCoreInOne.Views.pdb
+E:\AllCoreInOne\AllCoreInOne\obj\Debug\netcoreapp3.1\AllCoreInOne.csproj.CopyComplete
+E:\AllCoreInOne\AllCoreInOne\obj\Debug\netcoreapp3.1\staticwebassets\AllCoreInOne.StaticWebAssets.Manifest.cache
+E:\AllCoreInOne\AllCoreInOne\obj\Debug\netcoreapp3.1\staticwebassets\AllCoreInOne.StaticWebAssets.xml
+E:\AllCoreInOne\AllCoreInOne\obj\Debug\netcoreapp3.1\AllCoreInOne.dll
+E:\AllCoreInOne\AllCoreInOne\obj\Debug\netcoreapp3.1\AllCoreInOne.pdb
+E:\AllCoreInOne\AllCoreInOne\obj\Debug\netcoreapp3.1\AllCoreInOne.genruntimeconfig.cache
+E:\AllCoreInOne\AllCoreInOne\bin\Debug\netcoreapp3.1\Seq.Extensions.Logging.dll
+E:\AllCoreInOne\AllCoreInOne\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+E:\AllCoreInOne\AllCoreInOne\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+E:\AllCoreInOne\AllCoreInOne\bin\Debug\netcoreapp3.1\Serilog.dll
+E:\AllCoreInOne\AllCoreInOne\bin\Debug\netcoreapp3.1\Serilog.AspNetCore.dll
+E:\AllCoreInOne\AllCoreInOne\bin\Debug\netcoreapp3.1\Serilog.Extensions.Hosting.dll
+E:\AllCoreInOne\AllCoreInOne\bin\Debug\netcoreapp3.1\Serilog.Extensions.Logging.dll
+E:\AllCoreInOne\AllCoreInOne\bin\Debug\netcoreapp3.1\Serilog.Formatting.Compact.dll
+E:\AllCoreInOne\AllCoreInOne\bin\Debug\netcoreapp3.1\Serilog.Settings.Configuration.dll
+E:\AllCoreInOne\AllCoreInOne\bin\Debug\netcoreapp3.1\Serilog.Sinks.Console.dll
+E:\AllCoreInOne\AllCoreInOne\bin\Debug\netcoreapp3.1\Serilog.Sinks.Debug.dll
+E:\AllCoreInOne\AllCoreInOne\bin\Debug\netcoreapp3.1\Serilog.Sinks.File.dll
+E:\AllCoreInOne\AllCoreInOne\bin\Debug\netcoreapp3.1\Serilog.Sinks.PeriodicBatching.dll
+E:\AllCoreInOne\AllCoreInOne\bin\Debug\netcoreapp3.1\Serilog.Sinks.Seq.dll
+E:\AllCoreInOne\AllCoreInOne\bin\Debug\netcoreapp3.1\Serilog.Enrichers.Environment.dll
+E:\AllCoreInOne\AllCoreInOne\bin\Debug\netcoreapp3.1\Serilog.Enrichers.Thread.dll
+E:\AllCoreInOne\AllCoreInOne\bin\Debug\netcoreapp3.1\Serilog.Enrichers.Process.dll
+E:\AllCoreInOne\AllCoreInOne\bin\Debug\netcoreapp3.1\logs\log.json
+E:\AllCoreInOne\AllCoreInOne\bin\Debug\netcoreapp3.1\logs\Seq.json
+E:\AllCoreInOne\AllCoreInOne\bin\Debug\netcoreapp3.1\AutoMapper.dll
+E:\AllCoreInOne\AllCoreInOne\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+E:\AllCoreInOne\AllCoreInOne\obj\Debug\netcoreapp3.1\Razor\Views\Employee\Create.cshtml.g.cs
+E:\AllCoreInOne\AllCoreInOne\obj\Debug\netcoreapp3.1\Razor\Views\Employee\Index.cshtml.g.cs
+E:\AllCoreInOne\AllCoreInOne\obj\Debug\netcoreapp3.1\AllCoreInOne.csproj.CoreCompileInputs.cache
+E:\AllCoreInOne\AllCoreInOne\obj\Debug\netcoreapp3.1\AllCoreInOne.MvcApplicationPartsAssemblyInfo.cs
+E:\AllCoreInOne\AllCoreInOne\obj\Debug\netcoreapp3.1\AllCoreInOne.MvcApplicationPartsAssemblyInfo.cache
+E:\AllCoreInOne\AllCoreInOne\bin\Debug\netcoreapp3.1\Microsoft.Data.Sqlite.dll
+E:\AllCoreInOne\AllCoreInOne\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Sqlite.dll
+E:\AllCoreInOne\AllCoreInOne\bin\Debug\netcoreapp3.1\SQLitePCLRaw.batteries_v2.dll
+E:\AllCoreInOne\AllCoreInOne\bin\Debug\netcoreapp3.1\SQLitePCLRaw.nativelibrary.dll
+E:\AllCoreInOne\AllCoreInOne\bin\Debug\netcoreapp3.1\SQLitePCLRaw.core.dll
+E:\AllCoreInOne\AllCoreInOne\bin\Debug\netcoreapp3.1\SQLitePCLRaw.provider.dynamic_cdecl.dll
+E:\AllCoreInOne\AllCoreInOne\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libe_sqlite3.so
+E:\AllCoreInOne\AllCoreInOne\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libe_sqlite3.so
+E:\AllCoreInOne\AllCoreInOne\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libe_sqlite3.so
+E:\AllCoreInOne\AllCoreInOne\bin\Debug\netcoreapp3.1\runtimes\linux-armel\native\libe_sqlite3.so
+E:\AllCoreInOne\AllCoreInOne\bin\Debug\netcoreapp3.1\runtimes\linux-musl-x64\native\libe_sqlite3.so
+E:\AllCoreInOne\AllCoreInOne\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libe_sqlite3.so
+E:\AllCoreInOne\AllCoreInOne\bin\Debug\netcoreapp3.1\runtimes\linux-x86\native\libe_sqlite3.so
+E:\AllCoreInOne\AllCoreInOne\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libe_sqlite3.dylib
+E:\AllCoreInOne\AllCoreInOne\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\e_sqlite3.dll
+E:\AllCoreInOne\AllCoreInOne\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\e_sqlite3.dll
+E:\AllCoreInOne\AllCoreInOne\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\e_sqlite3.dll
+E:\AllCoreInOne\AllCoreInOne\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\e_sqlite3.dll
+E:\AllCoreInOne\AllCoreInOne\obj\Debug\netcoreapp3.1\Razor\Views\Employee\Edit.cshtml.g.cs
+E:\AllCoreInOne\AllCoreInOne\obj\Debug\netcoreapp3.1\AllCoreInOne.csprojAssemblyReference.cache
