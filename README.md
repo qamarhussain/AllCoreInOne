@@ -1,4 +1,4 @@
-# Asp.Net Core 3.1 - All in one
+# Asp.Net Core 3.1 - MVC | Entity Framework Core | SQL Server | Identity | Authorization | Serilog | Middleware
 Asp.Net Core MVC 3.1 start developing your application from here.
 
 
