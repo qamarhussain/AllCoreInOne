@@ -12,9 +12,9 @@ namespace AllCoreInOne.Extensions
             modelBuilder.Entity<Department>().HasData(
                 new List<Department>()
                 {
-                    new Department{Id = Guid.NewGuid(),Name="Computer Science"},
-                    new Department{Id = Guid.NewGuid(),Name="Business Administration"},
-                    new Department{Id = Guid.NewGuid(),Name="Physics"}
+                    new Department{Id = Guid.Parse("664E2304-A162-4C61-831E-0775BCB4C593"),Name="Computer Science"},
+                    new Department{Id = Guid.Parse("664E2304-A162-4C61-831E-0775BCB4C594"),Name="Business Administration"},
+                    new Department{Id = Guid.Parse("664E2304-A162-4C61-831E-0775BCB4C595"),Name="Physics"}
                 }
                 );
         }
