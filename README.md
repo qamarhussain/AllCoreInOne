@@ -34,6 +34,4 @@ Firstly add the Identity tables to your database
 
 1- Tools-> NuGet Package Manager -> Package Manager Console
 
-2- Add-migration init_database
-
-4- Update-database
+2- Update-database
