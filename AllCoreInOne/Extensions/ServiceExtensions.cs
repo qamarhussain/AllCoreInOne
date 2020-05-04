@@ -1,5 +1,6 @@
 ﻿using AllCoreInOne.Data;
 using AllCoreInOne.Models;
+using AllCoreInOne.Services.Complaint;
 using AllCoreInOne.Services.CurrentUser;
 using AllCoreInOne.Services.Email;
 using AllCoreInOne.Services.Employee;
@@ -13,6 +14,7 @@ namespace AllCoreInOne.Extensions
         public static void ConfigureDataServices(this IServiceCollection services)
         {
             services.AddScoped<IEmployeeService, EmployeeService>();
+            services.AddScoped<IComplaintService, ComplaintService>();
             services.AddScoped<ApplicationDbContext, ApplicationDbContext>();
             services.AddScoped<ICurrentUser, CurrentUserService>();
             services.AddScoped<IEmailService, EmailService>();
