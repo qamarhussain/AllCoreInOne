@@ -1,5 +1,4 @@
 # Asp.Net Core 3.1 - MVC | Entity Framework Core | SQL Server | Identity | Authorization | Serilog | Middleware
-Asp.Net Core MVC 3.1 start developing your application from here.
 
 
 This ASP.NET Core 3.1 MVC covers Identity Tables, authenticate and authorize users.
